@@ -1,0 +1,31 @@
+div {
+border: solid 5px black;
+text-align: center;
+background-color: rgba(0, 56, 139, 0.815);
+margin: 100px;
+border-radius: 20px;
+padding: 30px;
+height: 300px;
+width: 500px;
+color: white;
+}
+button{
+    border-radius: 10px;
+    background-color: lightgreen;
+    color: white;
+    height: 30px;
+    
+}
+h6{
+    border: solid 5px lightgreen;
+    border-radius: 10px;
+    background-color: lightgreen;
+    width: 50px;
+    text-align: center;
+   margin-left: 225px;
+
+}
+#Email {
+    border-radius: 10px;
+    height: 30px;
+}
