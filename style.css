@@ -1,4 +1,4 @@
-div {
+.hello{
 border: solid 5px black;
 text-align: center;
 background-color: rgba(0, 56, 139, 0.815);
@@ -28,4 +28,7 @@ h6{
 #Email {
     border-radius: 10px;
     height: 30px;
+}
+.aries{
+    float: inline-end;
 }
