@@ -31,4 +31,5 @@ h6{
 }
 .heading{
     display: inline;
+    justify-content: space-between;
 }
