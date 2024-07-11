@@ -29,10 +29,6 @@ h6{
     border-radius: 10px;
     height: 30px;
 }
-.try{
-    display: inline-flex;
-    justify-content: space-between;
-}
-h3{
+.heading{
     display: inline;
 }
