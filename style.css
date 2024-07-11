@@ -33,3 +33,6 @@ h6{
     display: inline-flex;
     justify-content: space-between;
 }
+h3{
+    display: inline;
+}
