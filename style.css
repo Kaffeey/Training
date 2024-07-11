@@ -32,4 +32,11 @@ h6{
 .heading{
     display: inline;
     justify-content: space-between;
+    margin-left: 20px;
+}
+h3{
+    display: inline;
+}
+.action{
+    justify-content: end;
 }
