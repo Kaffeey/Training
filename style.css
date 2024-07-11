@@ -37,3 +37,7 @@ h6{
 span{
     margin-left: 20px;
 }
+.action{
+    display: flex;
+    justify-content: end;
+}
