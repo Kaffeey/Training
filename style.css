@@ -29,14 +29,40 @@ h6{
     border-radius: 10px;
     height: 30px;
 }
-.heading{
-    display: inline;
-    justify-content: space-between;
-    margin-left: 20px;
+.menu-container{
+    display: flex;
+    justify-items: center;
+   
 }
-h3{
-    display: inline;
+.menu{
+    border: 1px solid #ffffff15;
+width: 1000px;
+display: flex;
+justify-content: space-around;
 }
 .action{
-    justify-content: end;
+    border: 1px solid #ffffff1e;  
+display: flex;
+justify-content: flex-end;
 }
+.click{
+    margin-left: 20px;
+}
+.Head{
+    font-weight: 600;
+}
+.Aries{
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+ }
+/*.Heading{
+    margin-left: 10px;
+}
+
+.action{
+    margin-left: 20px;
+}
+    .Head{
+    font-style: oblique;
+}*/
